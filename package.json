@@ -1,6 +1,6 @@
 {
   "name": "crypto-colors",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Color definitions for cryptocurrency branding/logos",
   "main": "dist/bundle.js",
   "keywords": [
