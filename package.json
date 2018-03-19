@@ -1,0 +1,21 @@
+{
+  "name": "crypto-colors",
+  "version": "1.0.0",
+  "description": "Color definitions for cryptocurrency branding/logos",
+  "main": "dist/bundle.js",
+  "keywords": [
+    "crypto",
+    "cryptocurrency",
+    "icon",
+    "colors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkascel/crypto-colors.git"
+  },
+  "author": {
+    "name": "Mike Kascel",
+    "web": "https://github.com/mkascel"
+  },
+  "license": "CC0-1.0"
+}
