@@ -33,7 +33,7 @@ export const BPT = '#0f63d8';
 export const BQ = '#1D1D1D';
 export const BQX = '#319E31';
 export const BTC = '#F7931A';
-export const BTCD = 'null';
+export const BTCD = '#FF6600';
 export const BTCZ = '#F8C24A';
 export const BTG = '#EBA809';
 export const BTM = '#504C4C';
@@ -56,7 +56,7 @@ export const DATA = '#E9570F';
 export const DBC = '#5bc1d4';
 export const DCN = '#136485';
 export const DCR = '#2ED6A1';
-export const DENT = 'null';
+export const DENT = '#666666';
 export const DGB = '#006AD2';
 export const DGD = '#F4D029';
 export const DLT = '#f4ae95';
@@ -70,10 +70,10 @@ export const ELF = '#2b5ebb';
 export const ELIX = '#00aded';
 export const ELLA = '#396a28';
 export const EMC = '#B49FFC';
-export const EMC2 = 'null';
+export const EMC2 = '#00CCFF';
 export const ENG = '#2f2f2f';
 export const ENJ = '#624dbf';
-export const EOS = 'null';
+export const EOS = '#000000';
 export const ETC = '#669073';
 export const ETH = '#627EEA';
 export const ETHOS = '#00FFBA';
@@ -92,7 +92,7 @@ export const FTC = '#27323a';
 export const FUEL = '#4096d0';
 export const FUN = '#F1385B';
 export const GAME = '#98C01F';
-export const GAS = 'null';
+export const GAS = '##58bf00';
 export const GBP = '#bc3fe0';
 export const GBX = '#1666af';
 export const GBYTE = '#302C2C';
@@ -142,11 +142,11 @@ export const MTH = '#104fca';
 export const MTL = '#1E1F25';
 export const MUSIC = '#FBBF02';
 export const NANO = '#4A90E2';
-export const NAS = 'null';
+export const NAS = '#222222';
 export const NAV = '#7D59B5';
 export const NDZ = '#622fba';
 export const NEBL = '#50479E';
-export const NEO = 'null';
+export const NEO = '#58BF00';
 export const NEOS = '#e5f300';
 export const NGC = '#f80000';
 export const NLC2 = '#f28f01';
@@ -175,7 +175,7 @@ export const PPC = '#3CB054';
 export const PPP = '#348f8d';
 export const PPT = '#152743';
 export const PRL = '#1061e3';
-export const PURA = 'null';
+export const PURA = '#333333';
 export const QASH = '#1347E8';
 export const QIWI = '#FF8C00';
 export const QLC = '#610089';
@@ -220,13 +220,13 @@ export const TKN = '#24DD7B';
 export const TNC = '#ff439b';
 export const TNT = '#ff4081';
 export const TRIG = '#30c0f2';
-export const TRX = 'null';
+export const TRX = '#000000';
 export const TZC = '#374851';
 export const UBQ = '#00EA90';
 export const USD = '#6cde07';
 export const USDT = '#26A17B';
 export const VEN = '#15BDFF';
-export const VERI = 'null';
+export const VERI = '#FF9933';
 export const VIA = '#565656';
 export const VIBE = '#338be5';
 export const VIVO = '#408af1';
@@ -242,7 +242,7 @@ export const XDN = '#4f7aa2';
 export const XEM = '#67B2E8';
 export const XLM = '#14B6E7';
 export const XMG = '#004a80';
-export const XMR = 'null';
+export const XMR = '#FF6600';
 export const XMY = '#ec1076';
 export const XP = '#008200';
 export const XPA = '#d002b4';
@@ -260,17 +260,3 @@ export const ZEN = '#F88900';
 export const ZIL = '#49c1bf';
 export const ZRX = '#302C2C';
 
-// TODO: Grab following missing coin colors
-// [
-//   'btcd',
-//   'dent',
-//   'emc2',
-//   'eos',
-//   'gas',
-//   'nas',
-//   'neo',
-//   'pura',
-//   'trx',
-//   'veri',
-//   'xmr'
-// ]

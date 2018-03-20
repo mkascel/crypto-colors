@@ -39,7 +39,7 @@
 	const BQ = '#1D1D1D';
 	const BQX = '#319E31';
 	const BTC = '#F7931A';
-	const BTCD = 'null';
+	const BTCD = '#FF6600';
 	const BTCZ = '#F8C24A';
 	const BTG = '#EBA809';
 	const BTM = '#504C4C';
@@ -62,7 +62,7 @@
 	const DBC = '#5bc1d4';
 	const DCN = '#136485';
 	const DCR = '#2ED6A1';
-	const DENT = 'null';
+	const DENT = '#666666';
 	const DGB = '#006AD2';
 	const DGD = '#F4D029';
 	const DLT = '#f4ae95';
@@ -76,10 +76,10 @@
 	const ELIX = '#00aded';
 	const ELLA = '#396a28';
 	const EMC = '#B49FFC';
-	const EMC2 = 'null';
+	const EMC2 = '#00CCFF';
 	const ENG = '#2f2f2f';
 	const ENJ = '#624dbf';
-	const EOS = 'null';
+	const EOS = '#000000';
 	const ETC = '#669073';
 	const ETH = '#627EEA';
 	const ETHOS = '#00FFBA';
@@ -98,7 +98,7 @@
 	const FUEL = '#4096d0';
 	const FUN = '#F1385B';
 	const GAME = '#98C01F';
-	const GAS = 'null';
+	const GAS = '##58bf00';
 	const GBP = '#bc3fe0';
 	const GBX = '#1666af';
 	const GBYTE = '#302C2C';
@@ -148,11 +148,11 @@
 	const MTL = '#1E1F25';
 	const MUSIC = '#FBBF02';
 	const NANO = '#4A90E2';
-	const NAS = 'null';
+	const NAS = '#222222';
 	const NAV = '#7D59B5';
 	const NDZ = '#622fba';
 	const NEBL = '#50479E';
-	const NEO = 'null';
+	const NEO = '#58BF00';
 	const NEOS = '#e5f300';
 	const NGC = '#f80000';
 	const NLC2 = '#f28f01';
@@ -181,7 +181,7 @@
 	const PPP = '#348f8d';
 	const PPT = '#152743';
 	const PRL = '#1061e3';
-	const PURA = 'null';
+	const PURA = '#333333';
 	const QASH = '#1347E8';
 	const QIWI = '#FF8C00';
 	const QLC = '#610089';
@@ -226,13 +226,13 @@
 	const TNC = '#ff439b';
 	const TNT = '#ff4081';
 	const TRIG = '#30c0f2';
-	const TRX = 'null';
+	const TRX = '#000000';
 	const TZC = '#374851';
 	const UBQ = '#00EA90';
 	const USD = '#6cde07';
 	const USDT = '#26A17B';
 	const VEN = '#15BDFF';
-	const VERI = 'null';
+	const VERI = '#FF9933';
 	const VIA = '#565656';
 	const VIBE = '#338be5';
 	const VIVO = '#408af1';
@@ -248,7 +248,7 @@
 	const XEM = '#67B2E8';
 	const XLM = '#14B6E7';
 	const XMG = '#004a80';
-	const XMR = 'null';
+	const XMR = '#FF6600';
 	const XMY = '#ec1076';
 	const XP = '#008200';
 	const XPA = '#d002b4';
@@ -265,21 +265,6 @@
 	const ZEN = '#F88900';
 	const ZIL = '#49c1bf';
 	const ZRX = '#302C2C';
-
-	// TODO: Grab following missing coin colors
-	// [
-	//   'btcd',
-	//   'dent',
-	//   'emc2',
-	//   'eos',
-	//   'gas',
-	//   'nas',
-	//   'neo',
-	//   'pura',
-	//   'trx',
-	//   'veri',
-	//   'xmr'
-	// ]
 
 	exports.ACT = ACT;
 	exports.ADA = ADA;
