@@ -5,6 +5,6 @@
 Import as ES6 or CommonJS module, e.g.
 
 ```
-import * as COIN_COLORS from 'crypto-color';
-import { BTC, ETH } from 'crypto-color';
+import * as COIN_COLORS from 'crypto-colors';
+import { BTC, ETH } from 'crypto-colors';
 ```
